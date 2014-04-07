@@ -1,2 +1,4 @@
-acnecurezone.github.io
-======================
+# Acne Cure Zone
+---
+
+Acne curing forum. 
