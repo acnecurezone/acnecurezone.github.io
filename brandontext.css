@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'BrandonText';
+  src: url("//getpopcornti.me/fonts/brandontext-regular-webfont.eot");
+  src: url("//getpopcornti.me/fonts/brandontext-regular-webfont.eot?#iefix") format("embedded-opentype"), url("//getpopcornti.me/fonts/brandontext-regular-webfont.woff") format("woff"), url("//getpopcornti.me/fonts/brandontext-regular-webfont.ttf") format("truetype"), url("//getpopcornti.me/fonts/brandontext-regular-webfont.svg#BrandonText") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'BrandonText';
+  src: url("//getpopcornti.me/fonts/brandontext-bold-webfont.eot");
+  src: url("//getpopcornti.me/fonts/brandontext-bold-webfont.eot?#iefix") format("embedded-opentype"), url("//getpopcornti.me/fonts/brandontext-bold-webfont.woff") format("woff"), url("//getpopcornti.me/fonts/brandontext-bold-webfont.ttf") format("truetype"), url("//getpopcornti.me/fonts/brandontext-bold-webfont.svg#BrandonText") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'BrandonText';
+  src: url("//getpopcornti.me/fonts/brandontext-light-webfont.eot");
+  src: url("//getpopcornti.me/fonts/brandontext-light-webfont.eot?#iefix") format("embedded-opentype"), url("//getpopcornti.me/fonts/brandontext-light-webfont.woff") format("woff"), url("//getpopcornti.me/fonts/brandontext-light-webfont.ttf") format("truetype"), url("//getpopcornti.me/fonts/brandontext-light-webfont.svg#BrandonText") format("svg");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'BrandonText';
+  src: url("//getpopcornti.me/fonts/brandontext-regularitalic-webfont.eot");
+  src: url("//getpopcornti.me/fonts/brandontext-regularitalic-webfont.eot?#iefix") format("embedded-opentype"), url("//getpopcornti.me/fonts/brandontext-regularitalic-webfont.woff") format("woff"), url("//getpopcornti.me/fonts/brandontext-regularitalic-webfont.ttf") format("truetype"), url("//getpopcornti.me/fonts/brandontext-regularitalic-webfont.svg#BrandonText") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Brandon Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.1;
+  color: inherit;
+}
+
+body {
+  font-family: "BrandonText";
+  font-size: 16px;
+  line-height: 19px;
+  color: #7a818e; }
+
